@@ -6,7 +6,7 @@ pipeline {
         
         stage('code checkout') {
             steps {
-                git url: 'https://github.com/snehalshirsath/jenkins-data.git'
+                git url: 'https://github.com/L00163565/lab-report-3-software-engineering.git'
             }
         }
         
